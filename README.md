@@ -1,8 +1,7 @@
 # Analog_Amplifier_LTspice
 Transistor-level design and LTspice simulation of an AC/DC power supply and a Class AB audio amplifier with a Darlington input stage.
 
-## Tags
-LTspice, Circuit Simulation, Electronics, SPICE
+![LTspice](https://img.shields.io/badge/Tool-LTspice-blue)
 
 # Analog AC/DC Power Supply & Class AB Amplifier
 
